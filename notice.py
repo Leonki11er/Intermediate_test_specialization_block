@@ -103,4 +103,4 @@ def main():
             print("Неверная команда")
 
 if __name__ == "__main__":
-    main()
+    main() 
